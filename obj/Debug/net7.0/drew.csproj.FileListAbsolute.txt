@@ -1,0 +1,15 @@
+C:\Users\chewy\Documents\drew\bin\Debug\net7.0\drew.exe
+C:\Users\chewy\Documents\drew\bin\Debug\net7.0\drew.deps.json
+C:\Users\chewy\Documents\drew\bin\Debug\net7.0\drew.runtimeconfig.json
+C:\Users\chewy\Documents\drew\bin\Debug\net7.0\drew.dll
+C:\Users\chewy\Documents\drew\bin\Debug\net7.0\drew.pdb
+C:\Users\chewy\Documents\drew\obj\Debug\net7.0\drew.csproj.AssemblyReference.cache
+C:\Users\chewy\Documents\drew\obj\Debug\net7.0\drew.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chewy\Documents\drew\obj\Debug\net7.0\drew.AssemblyInfoInputs.cache
+C:\Users\chewy\Documents\drew\obj\Debug\net7.0\drew.AssemblyInfo.cs
+C:\Users\chewy\Documents\drew\obj\Debug\net7.0\drew.csproj.CoreCompileInputs.cache
+C:\Users\chewy\Documents\drew\obj\Debug\net7.0\drew.dll
+C:\Users\chewy\Documents\drew\obj\Debug\net7.0\refint\drew.dll
+C:\Users\chewy\Documents\drew\obj\Debug\net7.0\drew.pdb
+C:\Users\chewy\Documents\drew\obj\Debug\net7.0\drew.genruntimeconfig.cache
+C:\Users\chewy\Documents\drew\obj\Debug\net7.0\ref\drew.dll
